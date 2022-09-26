@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425103676848",
+    "project_id": "drytime-d410b",
+    "storage_bucket": "drytime-d410b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425103676848:android:701d008b80cc2787ef3275",
+        "android_client_info": {
+          "package_name": "com.drytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425103676848-83jg6g64ptn4q17fr8u249lf8mnu2170.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drytime",
+            "certificate_hash": "c530a060c5577a0bfba8c84bb3cf24846467e567"
+          }
+        },
+        {
+          "client_id": "425103676848-sbg8kc68f4clh1rfns38812f7d5d0qqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuAnN6qY7bmCnMYsGg7zUWdd4bWa0srDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425103676848-sbg8kc68f4clh1rfns38812f7d5d0qqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
